@@ -11,7 +11,7 @@ MomentMint is a mobile application developed with **React Native** that allows u
 
 #
 
-<img src="blob/main/MomentMint.jpg" alt="Phone"  width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="MomentMint.jpg" alt="Phone"  width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/images/memo1.png" width="350" height="600"> <br>
 
 <img src="assets/images/memo2.png" width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
