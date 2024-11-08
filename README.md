@@ -1,5 +1,5 @@
 
-# MomentMint
+# MomentMint  📸✨
 
 ![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
 ![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20Native-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
@@ -14,46 +14,46 @@ MomentMint is a mobile application developed with **React Native** that allows u
 ##  🛠 Technologies Used
 
 - **React Native** version `0.75.2`
-- **VSCode** (recommended code editor)
-- **Redux** for state management
-- **react-native-vision-camera** for photo capture
-- **react-native-color-matrix-image-filters** for applying filters to images
-- **react-navigation** for navigation between screens
-- **react-native-vector-icons** for icons
+- **VSCode** (recommended code editor) 💻
+- **Redux** for state management ⚙️
+- **react-native-vision-camera** for photo capture 📷
+- **react-native-color-matrix-image-filters** for applying filters 🎨
+- **react-navigation** for navigation between screens 🧭
+- **react-native-vector-icons** for icons 🖼️
 
-## Features
+## 🌟 Features
 
-### 1. **Photo Capture**
+### 1. **Photo Capture** 📸
    - Users can take a photo using the device's front or rear camera.
    - The interface provides a button to capture a photo and another to retake it.
 
-### 2. **Apply Filters**
-   - After capturing a photo, several filters are available to personalize the image. Filters include:
-     - **No Filter**
-     - **Juno**
-     - **Sepia**
-     - **Vintage**
-     - **Achro**
-     - **Artistic** (a custom filter)
+### 2. **Apply Filters** 🎨
+- After capturing a photo, several filters are available to personalize the image. Filters include:
+ - **No Filter** ❌
+     - **Juno** 🌈
+     - **Sepia** 🟤
+     - **Vintage** 🕰️
+     - **Achro** 🖤
+     - **Artistic** 🎨 (a custom filter)
    
-### 3. **Gallery**
+### 3. **Gallery** 🖼️
    - Users can view their saved photos in a gallery.
    - Each photo can be enlarged and deleted with a confirmation.
 
-### 4. **Save Photo**
+### 4. **Save Photo** 💾
    - After applying a filter, users can save the photo to the gallery.
    - A temporary message confirms the successful saving of the photo.
 
-### 5. **Delete Image**
+### 5. **Delete Image** 🗑️
    - Users can delete a photo from the gallery with a confirmation before deletion.
 
-## Prerequisites
+## 🔧 Prerequisites
 
 - Node.js (version 14.x or higher)
 - Yarn or npm
 - A simulator or physical device for testing the app
 
-## Installation
+## 📥 Installation
 
 - **Clone the project** from GitHub:
    ```bash
@@ -65,7 +65,7 @@ MomentMint is a mobile application developed with **React Native** that allows u
    - **Image Filtering**: Filters are applied using the react-native-color-matrix-image-filters library.
 
 
-## 👏 How to Contribute
+## 🤝 How to Contribute
 
 Feel free to fork this repository, submit issues, and make pull requests. Any contributions to enhance the functionality and user experience of the Cinephile application are welcome.
 
