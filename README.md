@@ -10,7 +10,8 @@
 MomentMint is a mobile application developed with **React Native** that allows users to capture photos and apply artistic filters. It uses the device's camera to take pictures and provides various filters to personalize the images. Users can also view, delete, and save their photos.
 
 #
-<img src="assets/images/Phone.png" alt="Phone"  width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="blob/main/MomentMint.jpg" alt="Phone"  width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/images/memo1.png" width="350" height="600"> <br>
 
 <img src="assets/images/memo2.png" width="350" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
