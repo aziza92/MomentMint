@@ -59,6 +59,10 @@ MomentMint is a mobile application developed with **React Native** that allows u
    ```bash
    git clone https://github.com/aziza92/MomentMint.git
 
+## Development
+   - **Navigation**: The app uses react-navigation to navigate between screens (e.g., from the home screen to the camera screen).
+   - **Redux**: Redux is used to manage global state, especially for handling images and applied filters.
+   - **Image Filtering**: Filters are applied using the react-native-color-matrix-image-filters library.
 
 
 ## 👏 How to Contribute
