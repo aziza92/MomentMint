@@ -55,9 +55,10 @@ MomentMint is a mobile application developed with **React Native** that allows u
 
 ## Installation
 
-1. **Clone the project** from GitHub:
+- **Clone the project** from GitHub:
    ```bash
-   git clone https://github.com/username/MomentMint.git
+   git clone https://github.com/aziza92/MomentMint.git
+
 
 
 ## 👏 How to Contribute
