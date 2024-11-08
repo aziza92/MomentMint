@@ -8,3 +8,64 @@
 # 📝 Description
 
 MomentMint is a mobile application developed with **React Native** that allows users to capture photos and apply artistic filters. It uses the device's camera to take pictures and provides various filters to personalize the images. Users can also view, delete, and save their photos.
+
+
+
+##  🛠 Technologies Used
+
+- **React Native** version `0.75.2`
+- **VSCode** (recommended code editor)
+- **Redux** for state management
+- **react-native-vision-camera** for photo capture
+- **react-native-color-matrix-image-filters** for applying filters to images
+- **react-navigation** for navigation between screens
+- **react-native-vector-icons** for icons
+
+## Features
+
+### 1. **Photo Capture**
+   - Users can take a photo using the device's front or rear camera.
+   - The interface provides a button to capture a photo and another to retake it.
+
+### 2. **Apply Filters**
+   - After capturing a photo, several filters are available to personalize the image. Filters include:
+     - **No Filter**
+     - **Juno**
+     - **Sepia**
+     - **Vintage**
+     - **Achro**
+     - **Artistic** (a custom filter)
+   
+### 3. **Gallery**
+   - Users can view their saved photos in a gallery.
+   - Each photo can be enlarged and deleted with a confirmation.
+
+### 4. **Save Photo**
+   - After applying a filter, users can save the photo to the gallery.
+   - A temporary message confirms the successful saving of the photo.
+
+### 5. **Delete Image**
+   - Users can delete a photo from the gallery with a confirmation before deletion.
+
+## Prerequisites
+
+- Node.js (version 14.x or higher)
+- Yarn or npm
+- A simulator or physical device for testing the app
+
+## Installation
+
+1. **Clone the project** from GitHub:
+   ```bash
+   git clone https://github.com/username/MomentMint.git
+
+
+## 👏 How to Contribute
+
+Feel free to fork this repository, submit issues, and make pull requests. Any contributions to enhance the functionality and user experience of the Cinephile application are welcome.
+
+📄 License
+
+Copyright © 2024 Aziza Elgoul
+
+This project is licensed under the [MIT](https://opensource.org/license/mit) License. See the LICENSE file for more details.
